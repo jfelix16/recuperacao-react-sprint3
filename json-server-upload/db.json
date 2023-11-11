@@ -1,0 +1,12 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "ingredientes": "Cenouras, Margarina, Ovos, Açúcar, Farinha de trigo, Fermento químico em pó",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    }
+  ]
+}
